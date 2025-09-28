@@ -60,9 +60,8 @@ python lenovo_report_rich_api.py -s PF2V08GA --autosave
 
 ## Example Output
 
-```
-placehold for image
-```
+![Lenovo Report Screenshot](https://raw.githubusercontent.com/honeybugserial/LenovoWarrantyandBuildReport/main/image.png)
+
 
 ---
 
