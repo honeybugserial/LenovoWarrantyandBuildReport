@@ -35,7 +35,7 @@ pip install requests rich InquirerPy pyfiglet
 Run with a serial number:
 
 ```bash
-python lenovo_report_rich_api.py -s GM079MHZ
+python lenovo_report_rich_api.py -s PF2V08GA
 ```
 
 Prompt for serial interactively:
