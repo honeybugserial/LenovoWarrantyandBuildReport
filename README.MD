@@ -74,6 +74,8 @@ python lenovo_report_rich_api.py -s PF2V08GA --autosave
 | `--no-color`    | Disable Rich colors/styles. |
 | `--autosave`    | Automatically save to `./Reports` and exit. |
 
+Call with no options for menu/prompts
+
 ---
 
 ## Notes
